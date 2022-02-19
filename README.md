@@ -1,2 +1,3 @@
 # JavascriptIntro
 This is for practicing Javascript codes for reference purposes.
+This is my practice codes from Free Code Camp's JavaScript and Algorithm's. It's divided into Basic JavaScript, ECMAScript ES for short (latest syntax in JavaScript), Regular Expression (regex exp for short), Debugging, Basic data structures, basic algorithm scripting, Object Oriented Programming, Functional programming, Immediate algorithm scripting and Projects involved. I'm learning this course for the love I have for Algorithm and in an attempt to fully grasps the importance I'm going through this series with the aim at improving my hard skills.
